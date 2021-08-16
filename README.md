@@ -1,2 +1,2 @@
-#My Per Scholas GitHub Repo
+My Per Scholas GitHub Repo
 
